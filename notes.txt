@@ -1,0 +1,5 @@
+not completely randomized for TS
+
+DS variance decreases 
+Normality for AR2
+
